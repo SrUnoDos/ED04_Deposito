@@ -1,10 +1,7 @@
 
 package cuentas;
 
-/**
- *
- * @author Juan Couto
- */
+
 public class Main {
 
     public static void main(String[] args) {
